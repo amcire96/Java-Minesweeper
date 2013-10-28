@@ -1,4 +1,6 @@
-My Minesweeper project has 9 projects: a Board, Cell, GUI, Listener, LoadImage, Location, MineSweeper, and SoundEffect class.
+Java MineSweeper Game
+----------------------
+My Minesweeper project has 9 projects: Board, Cell, GUI, Listener, LoadImage, Location, MineSweeper, and SoundEffect class.
 
 This project reinforced my understanding into the development of games. 
 
